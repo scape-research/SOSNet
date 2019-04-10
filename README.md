@@ -1,2 +1,5 @@
 # SOSNet
-Pretrained SOSNet model by pytorch
+Pretrained pytorch model for the SOSNet descriptor [CVPR 2019]. 
+
+
+Coming soon.
